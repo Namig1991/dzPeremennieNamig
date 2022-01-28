@@ -88,6 +88,7 @@ public class Main {
         System.out.println(" Годовой доход Кристины после повышения з/п на 10% " + kris5 + " RUB");
         var kris6 = kris5 - kris4;
         System.out.println(" Годовой доход Кристины вырос на " + kris6 + " RUB");
+        System.out.println("Hello, World!");
 
 
 
